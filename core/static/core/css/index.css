@@ -1,0 +1,12 @@
+.navigation {
+    margin-bottom: 20px;
+}
+
+.topic-list__item {
+    margin-bottom: 20px;
+}
+
+.category__item {
+    background-color: gainsboro;
+    padding: 10px;
+}
